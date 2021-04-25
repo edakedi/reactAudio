@@ -1,0 +1,6 @@
+module Pods_reactAudio_reactAudioTests {
+  umbrella header "Pods-reactAudio-reactAudioTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

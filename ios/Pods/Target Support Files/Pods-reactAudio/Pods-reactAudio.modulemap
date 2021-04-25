@@ -1,0 +1,6 @@
+module Pods_reactAudio {
+  umbrella header "Pods-reactAudio-umbrella.h"
+
+  export *
+  module * { export * }
+}

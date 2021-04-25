@@ -1,0 +1,6 @@
+module RNAudioRecord {
+  umbrella header "RNAudioRecord-umbrella.h"
+
+  export *
+  module * { export * }
+}
